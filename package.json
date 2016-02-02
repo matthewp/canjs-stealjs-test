@@ -20,7 +20,7 @@
     "npmIgnore": [
       "devDependencies"
     ],
-	"transpiler": "babel"
+	"transpiler": "traceur"
   },
   "devDependencies": {
     "http-server": "^0.8.5"
