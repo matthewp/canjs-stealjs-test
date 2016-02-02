@@ -1,3 +1,3 @@
-export var func = function () {
+export default function () {
 	return 'Hello World!';
 };
